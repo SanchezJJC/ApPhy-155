@@ -1,3 +1,1 @@
-Hello World!
-
-Goodbye World!
+Update: Intermediate Python Certificate Uploaded
