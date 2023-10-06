@@ -1,1 +1,1 @@
-Update: Intermediate Python Certificate Uploaded
+Update: Data Visualization Certificate Uploaded
